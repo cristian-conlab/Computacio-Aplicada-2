@@ -1,2 +1,2 @@
-# Computacio-Aplicada-2
+# Computacio-Aplicada
 trabajos 
