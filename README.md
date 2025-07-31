@@ -30,9 +30,34 @@ enfocados en:
 - 🔗 [**informe.pdf**]()
 - 🔗 [**dataset.csv**]()
 - 🔗 [**resultados**]()
-- Objetivo: Analizar datos de motores de turbina utilizando Python, procesamiento de datos y visualizaciones.
+
+## Trabajo 2 — Chancador (Análisis de Fallas y Datos Operacionales) ##
+
+**📁 Carpeta: Trabajo 2**
+ *enlace directos* 
+- 🔗 [**codigo.ipynb**]()
+- 🔗 [**informe.pdf**]()
+- 🔗 [**dataset.csv**]()
+- 🔗 [**resultados**]()
 
 
+## Trabajo 3 — Reboiler (Simulación y Dataset) ##
+
+**📁 Carpeta: Trabajo 3**
+ *enlace directos* 
+- 🔗 [**codigo.ipynb**]()
+- 🔗 [**informe.pdf**]()
+- 🔗 [**dataset.csv**]()
+- 🔗 [**resultados**]()
+
+## Trabajo 4 — Aceites Industriales (Monitoreo y Resultados) ##
+
+**📁 Carpeta: Trabajo 4**
+ *enlace directos* 
+- 🔗 [**codigo.ipynb**]()
+- 🔗 [**informe.pdf**]()
+- 🔗 [**dataset.csv**]()
+- 🔗 [**resultados**]()
 
 
 
