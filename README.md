@@ -26,9 +26,10 @@ enfocados en:
 
 **📁 Carpeta: Trabajo 1**
  *enlace directos* 
-- codigo.ipynb → 
-- informe.pdf →
-- dataset.csv → 
+- 🔗 [**codigo.ipynb**]()
+- 🔗 [**informe.pdf**]()
+- 🔗 [**dataset.csv**]()
+- 🔗 [**resultados**]()
 - Objetivo: Analizar datos de motores de turbina utilizando Python, procesamiento de datos y visualizaciones.
 
 
