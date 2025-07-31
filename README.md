@@ -52,6 +52,8 @@ enfocados en:
 
 ## Trabajo 3 — Reboiler (Simulación y Dataset) ##
 
+El presente trabajo describe el proceso de preparación y depuración de datos del Reboiler a partir del archivo “Reboiler Raw Data with Timestamps”, con el objetivo de obtener un conjunto de datos limpio, confiable y listo para análisis o modelado predictivo.
+
 **📁 Carpeta: Trabajo 3**
  *enlace directos* 
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/Codigos)
