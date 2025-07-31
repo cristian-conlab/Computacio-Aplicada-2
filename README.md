@@ -24,7 +24,8 @@ enfocados en:
 
 ## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
-** 📁 Carpeta: Trabajo 1 **
+**📁 Carpeta: Trabajo 1**
+
 - *enlaces directos 
 - codigo.ipynb → 
 - informe.pdf →
