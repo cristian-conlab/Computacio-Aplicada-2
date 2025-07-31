@@ -28,7 +28,7 @@ enfocados en:
  *enlace directos* 
 - codigo.ipynb → 
 - informe.pdf →
-- dataset.csv →
+- dataset.csv → 
 - Objetivo: Analizar datos de motores de turbina utilizando Python, procesamiento de datos y visualizaciones.
 
 
