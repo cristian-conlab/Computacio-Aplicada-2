@@ -9,12 +9,7 @@
 - **Profesor:** Raymi Vásquez  
 
 **Integrantes:**
-- Manuel Molina  
-- Jorge Muñoz  
-- Ray Palomino  
-- Sergio Vergara  
 
----
 
 ## 📌 Descripción General
 
@@ -25,73 +20,18 @@ enfocados en:
 - **Simulación de procesos**
 - **Automatización y preprocesamiento de información**
 - **Uso de Python para Machine Learning y Data Science**
+  ##Trabajos del Semestre##
 
-Cada proyecto incluye:
+## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
-- **Código en Jupyter Notebook**
-- **Informe técnico en PDF**
-- **Dataset generado o utilizado**
-- **Resultados y visualizaciones**
-Detalles por Trabajo
+** 📁 Carpeta: Trabajo 1
+- Contenido: con enlaces directos 
+- codigo.ipynb → 
+- informe.pdf →
+- dataset.csv →
+- Objetivo: Analizar datos de motores de turbina utilizando Python, procesamiento de datos y visualizaciones.
 
-Trabajo 1: Análisis de Motores CMAPSS
 
-Carpeta: Trabajo 1/
 
-Archivos:
 
-codigo.ipynb: Código en Jupyter Notebook con el informe integrado.
 
-dataset_cmapss.csv: Dataset utilizado.
-
-resultados_modelo.png: Gráfico de resultados.
-
-README.md: Detalles del trabajo.
-
-Trabajo 2: Análisis de Detenciones en Chancador
-
-Carpeta: Trabajo 2/
-
-Archivos:
-
-codigo.ipynb: Código fuente.
-
-informe.pdf: Documento de informe.
-
-resultado_dataset.csv: Dataset generado.
-
-grafico_detenciones.png: Visualización de resultados.
-
-README.md: Descripción y ejecución.
-
-Trabajo 3: Evaluación Térmica de Reboiler
-
-Carpeta: Trabajo 3/
-
-Archivos:
-
-codigo.ipynb: Código fuente.
-
-informe.pdf: Documento de informe.
-
-resultado_dataset.csv: Dataset generado.
-
-grafico_temperaturas.png: Análisis de comportamiento térmico.
-
-README.md: Documentación del trabajo.
-
-Trabajo 4: Análisis de Propiedades de Aceites
-
-Carpeta: Trabajo 4/
-
-Archivos:
-
-codigo.ipynb: Código fuente.
-
-informe.pdf: Documento de informe.
-
-resultado_dataset.csv: Dataset generado.
-
-grafico_viscosidad.png: Análisis visual.
-
-README.md: Detalles y resultados.
