@@ -9,9 +9,12 @@
 - **Profesor:** Raymi Vásquez  
 
 **Integrantes:** 
-Cristhoper Muñoz
-Luis Olivares
-Cristian Contreras
+
+-Cristhoper Muñoz
+
+-Luis Olivares
+
+-Cristian Contreras
 
 
 
