@@ -26,8 +26,8 @@ enfocados en:
 
 **📁 Carpeta: Trabajo 1**
  *enlace directos* 
-- 🔗 [**codigo.ipynb**]()
-- 🔗 [**informe.pdf**]()
+- 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Codigos)
+- 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Informes)
 - 🔗 [**dataset.csv**]()
 - 🔗 [**resultados**]()
 
@@ -35,8 +35,8 @@ enfocados en:
 
 **📁 Carpeta: Trabajo 2**
  *enlace directos* 
-- 🔗 [**codigo.ipynb**]()
-- 🔗 [**informe.pdf**]()
+- 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Codigo)
+- 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Informes)
 - 🔗 [**dataset.csv**]()
 - 🔗 [**resultados**]()
 
@@ -45,10 +45,10 @@ enfocados en:
 
 **📁 Carpeta: Trabajo 3**
  *enlace directos* 
-- 🔗 [**codigo.ipynb**]()
-- 🔗 [**informe.pdf**]()
+- 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/Codigos)
+- 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/Informes)
 - 🔗 [**dataset.csv**]()
-- 🔗 [**resultados**]()
+- 🔗 [**resultados**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/resultados)
 
 ## Trabajo 4 — Aceites Industriales (Monitoreo y Resultados) ##
 
