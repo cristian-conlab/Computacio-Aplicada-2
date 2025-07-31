@@ -20,7 +20,8 @@ enfocados en:
 - **Simulación de procesos**
 - **Automatización y preprocesamiento de información**
 - **Uso de Python para Machine Learning y Data Science**
-  ##Trabajos del Semestre##
+
+# Trabajos del Semestre #
 
 ## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
