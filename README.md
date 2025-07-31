@@ -1,7 +1,7 @@
 
 
 
-## 🏫 Información del Curso
+## 🏫 Información del Curso ##
 
 - **Universidad Técnica Federico Santa María**  
 - **Carrera:** Ingeniería en Mantenimiento Industrial  
@@ -11,7 +11,7 @@
 **Integrantes:**
 
 
-## 📌 Descripción General
+## 📌 Descripción General ##
 
 Este repositorio contiene **todos los trabajos del semestre** para la asignatura **Computación Aplicada**,  
 enfocados en:
@@ -24,8 +24,8 @@ enfocados en:
 
 ## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
-** 📁 Carpeta: Trabajo 1
-- Contenido: con enlaces directos 
+** 📁 Carpeta: Trabajo 1 **
+- *enlaces directos 
 - codigo.ipynb → 
 - informe.pdf →
 - dataset.csv →
