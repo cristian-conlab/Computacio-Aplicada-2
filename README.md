@@ -30,7 +30,7 @@ enfocados en:
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Codigos)
 - 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Informes)
 - 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/1_xb5lDDAt6C5lFPALe8JYj2iV1sZA-Um?usp=drive_link)
-- 🔗 [**resultados**]()
+- 🔗 [**resultados**](https://drive.google.com/drive/folders/1Mv1GHnkKccpI2ZLDFNRJKf8z9N8K1TWK?usp=drive_link)
 
 ## Trabajo 2 — Chancador (Análisis de Fallas y Datos Operacionales) ##
 
