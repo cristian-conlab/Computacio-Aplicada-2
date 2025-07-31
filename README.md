@@ -29,6 +29,8 @@ enfocados en:
 
 ## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
+El presente trabajo tuvo como objetivo realizar un análisis de datos de motores de turbina utilizando el conjunto de datos CMAPSS y la herramienta Python, con enfoque en la identificación de variabilidad, patrones de desgaste y modos de falla.
+
 **📁 Carpeta: Trabajo 1**
  *enlace directos* 
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Codigos)
