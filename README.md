@@ -1,4 +1,4 @@
-# COMPUTACION APLICADA
+# Computación Aplicada
 
 
 ## 🏫 Información del Curso ##
