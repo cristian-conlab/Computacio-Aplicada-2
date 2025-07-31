@@ -29,7 +29,7 @@ enfocados en:
 
 ## Trabajo 1 — CMAPSS (Análisis de Motores de Turbina) ##
 
-El presente trabajo tuvo como objetivo realizar un análisis de datos de motores de turbina utilizando el conjunto de datos CMAPSS y la herramienta Python, con enfoque en la identificación de variabilidad, patrones de desgaste y modos de falla.
+- El presente trabajo tuvo como objetivo realizar un análisis de datos de motores de turbina utilizando el conjunto de datos CMAPSS y la herramienta Python, con enfoque en la identificación de variabilidad, patrones de desgaste y modos de falla.
 
 **📁 Carpeta: Trabajo 1**
  *enlace directos* 
@@ -39,6 +39,8 @@ El presente trabajo tuvo como objetivo realizar un análisis de datos de motores
 - 🔗 [**resultados**](https://drive.google.com/drive/folders/1Mv1GHnkKccpI2ZLDFNRJKf8z9N8K1TWK?usp=drive_link)
 
 ## Trabajo 2 — Chancador (Análisis de Fallas y Datos Operacionales) ##
+
+- El presente trabajo consistió en el análisis de la base de datos operativa de un chancador industrial, con el objetivo de identificar el intervalo de tiempo más eficiente para el monitoreo y detección de fallas. Para el procesamiento y depuración de los datos se utilizaron las plataformas Anaconda y DataBruin,
 
 **📁 Carpeta: Trabajo 2**
  *enlace directos* 
