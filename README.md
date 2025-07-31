@@ -8,7 +8,11 @@
 - **Asignatura:** Computación Aplicada  
 - **Profesor:** Raymi Vásquez  
 
-**Integrantes:**
+**Integrantes:** 
+Cristhoper Muñoz
+Luis Olivares
+Cristian Contreras
+
 
 
 ## 📌 Descripción General ##
