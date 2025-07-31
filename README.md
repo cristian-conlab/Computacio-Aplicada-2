@@ -28,7 +28,7 @@ enfocados en:
  *enlace directos* 
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Codigos)
 - 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%20(MOTORES)/Informes)
-- 🔗 [**dataset.csv**]()
+- 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/1_xb5lDDAt6C5lFPALe8JYj2iV1sZA-Um?usp=drive_link)
 - 🔗 [**resultados**]()
 
 ## Trabajo 2 — Chancador (Análisis de Fallas y Datos Operacionales) ##
@@ -37,7 +37,7 @@ enfocados en:
  *enlace directos* 
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Codigo)
 - 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Informes)
-- 🔗 [**dataset.csv**]()
+- 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/1aQ61KRCHHewylZvKDPu1snXOlEPGeCJx?usp=drive_link)
 - 🔗 [**resultados**]()
 
 
@@ -47,7 +47,7 @@ enfocados en:
  *enlace directos* 
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/Codigos)
 - 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/Informes)
-- 🔗 [**dataset.csv**]()
+- 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/1iN3ZCV6KBkpagU4SAsI3qerW8u4es5L7?usp=drive_link)
 - 🔗 [**resultados**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%202(%20REBOILER)/resultados)
 
 ## Trabajo 4 — Aceites Industriales (Monitoreo y Resultados) ##
@@ -56,8 +56,19 @@ enfocados en:
  *enlace directos* 
 - 🔗 [**codigo.ipynb**]()
 - 🔗 [**informe.pdf**]()
-- 🔗 [**dataset.csv**]()
+- 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/14uwfYDCnxfGOOfywe1HV5e420XHyXpYq?usp=drive_link)
 - 🔗 [**resultados**]()
 
+## 🏁Conclusión ##
+
+El desarrollo de estos trabajos permitió aplicar los conceptos de Computación Aplicada en un contexto industrial y de ingeniería en mantenimiento, integrando herramientas como Python, Jupyter Notebook y librerías de ciencia de datos.
+Durante el semestre se logró:
+- Procesar y analizar datos reales de equipos industriales, como motores de turbina y chancadores.
+
+- Simular procesos industriales (Rehervidor) para generar datasets confiables y evaluables.
+
+- Implementar análisis predictivo y monitoreo de condiciones en aceites industriales.
+
+- Consolidar un flujo de trabajo reproducible mediante código organizado, informes técnicos y datasets documentados.
 
 
