@@ -39,7 +39,7 @@ enfocados en:
 - 🔗 [**codigo.ipynb**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Codigo)
 - 🔗 [**informe.pdf**](https://github.com/cristian-conlab/Computacio-Aplicada-2/tree/aeec15d5d23005388c10914a24f97fd14f14dd95/TRABAJO%201(CHANCADOR)/Informes)
 - 🔗 [**dataset.csv**](https://drive.google.com/drive/folders/1aQ61KRCHHewylZvKDPu1snXOlEPGeCJx?usp=drive_link)
-- 🔗 [**resultados**]()
+- 🔗 [**resultados**](https://drive.google.com/drive/folders/1Yo4gScFkXI4ReYWkp7sz5nI-ogEo135x?usp=drive_link)
 
 
 ## Trabajo 3 — Reboiler (Simulación y Dataset) ##
